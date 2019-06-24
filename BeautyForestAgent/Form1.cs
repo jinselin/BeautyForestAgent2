@@ -47,6 +47,11 @@ namespace BeautyForestAgent
         {
             VisibleChange(true);
         }
+
+        private void CmsMenu_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 
 }
