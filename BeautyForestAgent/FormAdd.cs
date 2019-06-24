@@ -11,6 +11,7 @@ namespace BeautyForestAgent
 {
     public partial class FormAdd : Form
     {
+
         public string Title
         {
             set { this.Text = value; }

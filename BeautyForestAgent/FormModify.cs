@@ -9,8 +9,10 @@ using System.Windows.Forms;
 
 namespace BeautyForestAgent
 {
+
     public partial class FormModify : Form
     {
+
         public string Title
         {
             set { this.Text = value; }
